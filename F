@@ -263,7 +263,6 @@ http://vizyon48.us:8080/soner_k.aslan92/87TV7ELD6S/514
 http://vizyon48.us:8080/soner_k.aslan92/87TV7ELD6S/511
 #EXTINF:-1,ES:Real Madrid TV
 http://vizyon48.us:8080/soner_k.aslan92/87TV7ELD6S/3674
-
 #EXTINF:-1 tvg-id="AMC FHD" tvg-name="ES: AMC FHD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC FHD
 http://711263764162321102.otrees.xyz:80/play/Elias/8683723805/321102.ts
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC HD
@@ -282,14 +281,6 @@ http://711263764162321071.otrees.xyz:80/play/Elias/8683723805/321071.ts
 http://711263764162321072.otrees.xyz:80/play/Elias/8683723805/321072.ts
 #EXTINF:-1 tvg-id="Clan.TV" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES   MOVISTAR+",ES: #VAMOS SD
 http://711263764162321073.otrees.xyz:80/play/Elias/8683723805/321073.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1 HD" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: ETB 1 HD
-http://711263764162165332.otrees.xyz:80/play/Elias/8683723805/165332.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2 HD" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: ETB 2 HD
-http://711263764162165333.otrees.xyz:80/play/Elias/8683723805/165333.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 7 HD" tvg-logo="http://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: LA 7 HD
-http://711263764162165298.otrees.xyz:80/play/Elias/8683723805/165298.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MELILLA TV HD" tvg-logo="http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: MELILLA TV HD
-http://711263764162165328.otrees.xyz:80/play/Elias/8683723805/165328.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
 http://711263764162165257.otrees.xyz:80/play/Elias/8683723805/165257.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: RTVCE FHD" tvg-logo="http://graph.facebook.com/RTVCE/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: RTVCE FHD
@@ -344,16 +335,9 @@ http://711263764162282467.otrees.xyz:80/play/Elias/8683723805/282467.ts
 http://711263764162165418.otrees.xyz:80/play/Elias/8683723805/165418.ts
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HD
 http://711263764162165419.otrees.xyz:80/play/Elias/8683723805/165419.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: RED BULL TV FHD" tvg-logo="" group-title="ES DEPORTES",ES: RED BULL TV FHD
-http://711263764162165471.otrees.xyz:80/play/Elias/8683723805/165471.ts
-#EXTINF:-1 tvg-id="BARNA ASTRA SD 1.sp" tvg-name="ES: BARCA TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="ES DEPORTES",ES: BARCA TV FHD
 http://711263764162165442.otrees.xyz:80/play/Elias/8683723805/165442.ts
 #EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL TV FHD
 http://711263764162165443.otrees.xyz:80/play/Elias/8683723805/165443.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL TV HD
-http://711263764162165449.otrees.xyz:80/play/Elias/8683723805/165449.ts
-#EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES DEPORTES",ES: GOL TV SD
-http://711263764162165441.otrees.xyz:80/play/Elias/8683723805/165441.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M LALIGA FHD
 http://711263764162165385.otrees.xyz:80/play/Elias/8683723805/165385.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M LALIGA HD
@@ -487,134 +471,8 @@ http://711263764162268072.otrees.xyz:80/play/Elias/8683723805/268072.ts
 http://711263764162268094.otrees.xyz:80/play/Elias/8683723805/268094.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
 http://711263764162268095.otrees.xyz:80/play/Elias/8683723805/268095.ts
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M+ GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://711263764162268096.otrees.xyz:80/play/Elias/8683723805/268096.ts
-#EXTINF:-1,UK:BTSPORT 1 HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/1617
-#EXTINF:-1,UK:BTSPORT 2 HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/1618
-#EXTINF:-1,UK:EUROSPORT 1
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/1623
-#EXTINF:-1,UK:SKY MOVIES DRAMA
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/1630
-#EXTINF:-1,UK:SKY SPORT F1
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/1632
-#EXTINF:-1,UK:SKY SPORT NEWS HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/1633
-#EXTINF:-1,UK: SKY SPORT FOOTBALL HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/178
-#EXTINF:-1,UK:SKY SPORTS ARENA HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/177
-#EXTINF:-1,UK:SKY SPORTS CRICKED HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/176
-#EXTINF:-1,UK:SKY SPORTS MAIN EVENT HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/174
-#EXTINF:-1,UK:EIR SPORT HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/5008
-#EXTINF:-1,UK:EIR SPORT 2 HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/5009
-#EXTINF:-1,ES:BEIN SPORTS LA LIGA HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/519
-#EXTINF:-1,ES:FOX HD
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/518
-#EXTINF:-1,ES:FOX LIFE
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/517
-#EXTINF:-1,ES:MOVISTAR ESTRENOS
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/515
 #EXTINF:-1,ES:MOVISTAR FUTBOL
 http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/514
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/511
-#EXTINF:-1,ES:Real Madrid TV
-http://vizyon48.us:8080/Yilmazkomsu/t49pT8wFT4/3674
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89077
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 1
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89078
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 1 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89079
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 2
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89080
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 2 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89081
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 3
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89082
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 3 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89083
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 4
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89084
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 5
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89085
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 6" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 6
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89086
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 7" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 7
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89087
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 8" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES 8
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89088
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIDEPORTES HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89089
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 1
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89090
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 2
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89091
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 3
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89092
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: MULTIFUTBOLL 4
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89093
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. GOLF HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89094
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 1
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89095
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 1 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89096
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 10" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 10
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89097
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 2" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 2
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89098
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 2 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89099
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 3" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 3
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89100
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 3 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 3 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89101
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 4" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 4
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89102
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 5" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 5
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89103
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 6" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 6
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89104
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 7" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 7
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89105
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 8" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 8
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89106
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV 9" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV 9
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89107
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89108
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA TV" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. LALIGA TV
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89109
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89110
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 1" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 1
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89111
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 1 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 1 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89112
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 2 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 2 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89113
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 2 HD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 2 HD
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89114
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 3 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 3 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89115
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 4 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 4 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89116
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 5 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 5 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89117
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 6 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 6 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89118
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 7 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 7 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89119
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones 8 ( LIVE EVENT )" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones 8 ( LIVE EVENT )
-http://1903.full57.us:8000/kemalsabriortagi/zxzeMEXugK/89120
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2 HD" tvg-logo="" group-title="ES DEPORTES",ES: ESPN 2 HD
 http://711263764162290672.otrees.xyz:80/play/Elias/8683723805/290672.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 4 HD" tvg-logo="" group-title="ES DEPORTES",ES: M+ DEPORTES 4 HD

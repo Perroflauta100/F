@@ -229,14 +229,6 @@ http://vizyon48.us:8080/aliucrr/aliucarr/204
 http://vizyon48.us:8080/aliucrr/aliucarr/205
 #EXTINF:-1,NL:ESPN 6 HD
 http://vizyon48.us:8080/aliucrr/aliucarr/770
-#EXTINF:-1,NL:HISTORY
-http://vizyon48.us:8080/aliucrr/aliucarr/771
-#EXTINF:-1,NL:NAT GEOGRAPHIC
-http://vizyon48.us:8080/aliucrr/aliucarr/669
-#EXTINF:-1,NL:NICKELODEON/SPIKE
-http://vizyon48.us:8080/aliucrr/aliucarr/757
-#EXTINF:-1,NL:HBO 3 HD
-http://vizyon48.us:8080/aliucrr/aliucarr/2189
 #EXTINF:-1,NL:ZIGGO SPORT 1 RACING
 http://vizyon48.us:8080/aliucrr/aliucarr/666
 #EXTINF:-1,NL:ZIGGO SPORT EXTRA 1
@@ -509,24 +501,6 @@ http://711263764162320789.otrees.xyz:80/play/Elias/8683723805/320789.ts
 http://711263764162320790.otrees.xyz:80/play/Elias/8683723805/320790.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:DAZN LALIGA SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES:DAZN LALIGA SD
 http://711263764162320792.otrees.xyz:80/play/Elias/8683723805/320792.ts
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: SUPERCOPA FHD" tvg-logo="https://www.movistarplus.es/recorte/n/caratula4/MREALMP2026824" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA FHD
-http://711263764162333642.otrees.xyz:80/play/Elias/8683723805/333642.ts
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: SUPERCOPA HD" tvg-logo="https://www.movistarplus.es/recorte/n/caratula4/MREALMP2026824" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD
-http://711263764162333643.otrees.xyz:80/play/Elias/8683723805/333643.ts
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: SUPERCOPA SD" tvg-logo="https://www.movistarplus.es/recorte/n/caratula4/MREALMP2026824" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA SD
-http://711263764162333644.otrees.xyz:80/play/Elias/8683723805/333644.ts
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: SUPERCOPA HD(OP1)" tvg-logo="https://www.movistarplus.es/recorte/n/caratula4/MREALMP2026824" group-title="ES M+ SUPERCOPA",ES: SUPERCOPA HD(OP1)
-http://711263764162333713.otrees.xyz:80/play/Elias/8683723805/333713.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 1 FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: MULTIFUTBOLL 1 FHD
-http://711263764162381747.otrees.xyz:80/play/Elias/8683723805/381747.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 2 FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: MULTIFUTBOLL 2 FHD
-http://711263764162381748.otrees.xyz:80/play/Elias/8683723805/381748.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 3 FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: MULTIFUTBOLL 3 FHD
-http://711263764162381749.otrees.xyz:80/play/Elias/8683723805/381749.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 4 FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: MULTIFUTBOLL 4 FHD
-http://711263764162381750.otrees.xyz:80/play/Elias/8683723805/381750.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS FHD" tvg-logo="" group-title="ES   MOVISTAR+",ES: M+ #VAMOS FHD
-http://711263764162438009.otrees.xyz:80/play/Elias/8683723805/438009.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: M+ #VAMOS HD
 http://711263764162438010.otrees.xyz:80/play/Elias/8683723805/438010.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="" group-title="WORLD SPOR CHANNELS",ES: M. Liga De Campeones FHD
